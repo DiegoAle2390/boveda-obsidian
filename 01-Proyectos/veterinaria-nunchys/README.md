@@ -32,4 +32,4 @@ Basado en `odd/plans/sales-overhaul.md` y las tareas abiertas en `odd/tasks/`. H
 
 ## Notas y decisiones
 - Las specs y tareas del código viven en `odd/` dentro del repo.
-- Decisiones de arquitectura: [[04-Decisiones/]]
+- Decisiones de arquitectura: `04-Decisiones/`

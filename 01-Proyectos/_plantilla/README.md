@@ -21,4 +21,4 @@ estado: activo
 - [ ]
 
 ## Notas y decisiones
-Enlazar ADRs relevantes: [[04-Decisiones/]]
+Enlazar ADRs relevantes: `04-Decisiones/`
