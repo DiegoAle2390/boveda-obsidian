@@ -11,9 +11,7 @@
     ],
     "deny": [
       "Read(.obsidian/**)",
-      "Edit(.obsidian/**)",
-      "Bash(rm -rf:*)",
-      "Bash(git push:*)"
+      "Edit(.obsidian/**)"
     ]
   }
 }

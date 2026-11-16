@@ -188,8 +188,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "bea10333c62df61b",
+  "active": "513446d9a5e615ea",
   "lastOpenFiles": [
+    "01-Proyectos/veterinaria-nunchys/README.md",
+    "01-Proyectos/veterinaria-nunchys",
     "CLAUDE.md",
     "README.md",
     "05-Plantillas/reunion.md",
@@ -206,7 +208,6 @@
     "03-Recursos/tecnologias",
     "03-Recursos/snippets",
     "03-Recursos/patrones",
-    "03-Recursos/landings-plantillas",
     "Bienvenido.md"
   ]
 }
