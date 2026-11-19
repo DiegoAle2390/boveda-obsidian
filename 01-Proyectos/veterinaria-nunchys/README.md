@@ -27,7 +27,7 @@ Basado en `odd/plans/sales-overhaul.md` y las tareas abiertas en `odd/tasks/`. H
 - [ ] Cerrar T4a de `inventory-overhaul`: registrar el diseño y la rama `feat/inventory-lots`
 - [x] Slice B: descuentos manuales y promociones (incluye descuento por lotes próximos a vencer), PR #11 mergeado
 - [x] Caja por turnos (apertura, movimientos, cierre a ciegas) y reporte del período, PR #12 mergeado
-- [ ] Clientes, mascotas y comprobante imprimible o por WhatsApp: tres PR encadenados (#13, #14, #15), migraciones 0016 y 0017 aplicadas; falta mergear en orden y la prueba en vivo
+- [ ] Clientes, mascotas y comprobante imprimible o por WhatsApp: tres PR encadenados (#13, #14, #15), migraciones 0016 y 0017 aplicadas y probadas en vivo con Vendedor y Encargado; falta mergear en orden
 - [ ] Completar el cuestionario con la clienta (cuenta corriente, facturación, turnos, entre otros)
 - [ ] Turnos de peluquería, baño y clínica (etapa siguiente, depende de clientes y mascotas)
 - [x] Decisiones **[decidir]** del plan resueltas con el dueño (precedencia de promociones, umbral de descuento por rol)
